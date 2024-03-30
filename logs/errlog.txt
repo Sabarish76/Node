@@ -1,0 +1,34 @@
+20/03/2024	00:33:12	f3ff1b89-837d-4b60-983a-30b22fd24268	Error:CORS Origin Not Allowed
+20/03/2024	00:34:32	8ae8df72-ae46-4f3b-a3a5-fef0a6701fbf	Error:CORS Origin Not Allowed
+20/03/2024	00:36:14	43439379-cbf6-488c-973e-4a1cf1981ecb	Error:CORS Origin Not Allowed
+20/03/2024	23:17:06	06911685-7464-40b5-afb7-d401cbe4005b	Error:CORS Origin Not Allowed
+21/03/2024	00:06:19	109739f8-8e36-48e2-a7ff-08ba1d65a930	Error:ENOENT: no such file or directory, stat 'G:\Web Development\MERN STACK\Node\Node\router\new-page.html'
+22/03/2024	01:20:32	11167e1d-14a4-426b-a2e0-f2a9aa7a59ba	TypeError:Cannot read properties of undefined (reading 'fistname')
+22/03/2024	01:20:48	6de4f4fa-87f0-4842-87ac-fe9d0cbdc0ed	TypeError:Cannot read properties of undefined (reading 'fistname')
+22/03/2024	01:21:06	a76fd299-eada-4015-a4f4-7dae5024f102	TypeError:Cannot read properties of undefined (reading 'fistname')
+22/03/2024	01:22:16	e97bd02e-1b23-439f-8119-3d7460e08ecc	TypeError:Cannot read properties of undefined (reading 'fistname')
+22/03/2024	01:22:27	2d1b2567-0c37-48bb-9e71-92b420dc0e65	TypeError:Cannot read properties of undefined (reading 'firstname')
+22/03/2024	01:23:47	181beec5-cc66-4f0a-ba9c-21a01572c6d7	TypeError:Cannot read properties of undefined (reading 'firstname')
+22/03/2024	01:24:27	72f4b15d-bd39-47e3-87e6-35e548309250	TypeError:Cannot read properties of undefined (reading 'firstname')
+22/03/2024	01:24:51	7b6e1db4-97be-457c-932a-3f58b27cc9a3	TypeError:Cannot read properties of undefined (reading 'firstname')
+22/03/2024	01:24:53	4923bf61-f20c-4c9c-b31f-cfc4ea0d8926	TypeError:Cannot read properties of undefined (reading 'firstname')
+22/03/2024	01:25:49	11f285b1-5b18-45b7-927f-f3dc1e6abd40	TypeError:Cannot read properties of undefined (reading 'firstname')
+22/03/2024	01:26:26	cbe8010f-c751-4227-9e74-d8d2f042a7a8	TypeError:Cannot read properties of undefined (reading 'firstname')
+22/03/2024	01:29:09	3b9019e4-932c-4d55-9d00-b4e1fcac2b36	TypeError:Cannot read properties of undefined (reading 'firstname')
+22/03/2024	01:31:12	9fcc28fb-f981-4aa0-9a05-ec1aedd2c2b7	TypeError:Cannot destructure property 'firstname' of 'req.body' as it is undefined.
+22/03/2024	01:39:00	007a2ce6-8684-4fb8-a653-e912f37bfb0b	TypeError:Cannot read properties of undefined (reading 'firstname')
+22/03/2024	01:42:54	7c0a9090-fa57-4fbe-b39a-ed5abdcb2458	TypeError:Cannot read properties of undefined (reading 'firstname')
+22/03/2024	01:46:17	1706e6d7-d669-474f-bdbd-cc3e78808a5c	TypeError:Cannot read properties of undefined (reading 'firstname')
+22/03/2024	01:46:47	d7fa9553-4584-4f39-be4a-255667a8fc85	TypeError:Cannot read properties of undefined (reading 'firstname')
+22/03/2024	02:55:26	fd635406-cd50-41d1-9c88-492ff0796d74	ReferenceError:rse is not defined
+22/03/2024	02:56:39	4ca5af24-6799-45e1-9c39-b36b1a187e8a	Error:Cannot set headers after they are sent to the client
+22/03/2024	02:56:55	7b2dae91-8545-4716-bd75-27dbb0242476	TypeError:Cannot read properties of undefined (reading 'id')
+22/03/2024	02:57:28	174b462d-bef0-4785-a56a-2b1a9e36517b	TypeError:Cannot read properties of undefined (reading 'id')
+22/03/2024	02:59:51	7453623b-67c7-485f-bc30-40d3fd29ee98	TypeError:data.setEmployees is not a function
+22/03/2024	03:02:28	b4f4db82-c3a2-4149-b2f4-93b78d29f228	Error:Cannot set headers after they are sent to the client
+22/03/2024	03:04:43	31e5cf8b-a476-408d-835d-99a5ca79170c	Error:Cannot set headers after they are sent to the client
+22/03/2024	03:05:20	ae5d0c86-be01-476e-858b-23c2830405e5	TypeError:Cannot read properties of undefined (reading 'id')
+22/03/2024	03:09:59	e6072e88-3129-4521-8252-d5401949419b	SyntaxError:Unexpected token } in JSON at position 22
+22/03/2024	10:08:34	1971e911-0b2c-475f-ba2d-7217baf68382	Error:Cannot set headers after they are sent to the client
+22/03/2024	10:23:19	be543dc3-57fd-454c-bbf5-0c16ce898bca	SyntaxError:Unexpected token { in JSON at position 3
+22/03/2024	10:23:57	9671921f-33a5-4f4c-9c8e-99aadc925a17	SyntaxError:Unexpected token { in JSON at position 3
